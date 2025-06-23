@@ -1,5 +1,7 @@
 Face Recognition System with DeepFace and PostgreSQL
+
 This project is a real-time face recognition system using a webcam. 
+
 It leverages DeepFace for face embeddings and PostgreSQL for storing and retrieving user data.
 
 Current Features:
